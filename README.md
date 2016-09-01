@@ -1,6 +1,3 @@
-![visuel du kit](http://kit.cultive-ta.com/images/visuelkit.png)
-
-
 Le kit du semeur d'idées est un outil qui a pour objectif de sensibiliser à l'éco-communication et à l'utilisation du Libre.
 
 Le kit, enrichi chaque mois, contient :
