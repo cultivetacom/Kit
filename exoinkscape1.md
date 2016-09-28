@@ -25,4 +25,4 @@ Fichier > importer... > exerciceorigami1.png
 
 Commencer par l'oiseau origami qui ne contient pas de courbe. Avec l'outil "tracer des courbes de Bézier", aller d'angle en angle. Vous êtes en train de créer des nœuds. Clic gauche pour ajouter un nœud et clic droit pour fermer le polygone. Vous devez penser à réaliser des figures géométriques. Je ne vous conseille pas de faire des "allers-retours" sur un trait déjà tracé. Une fois terminé, sélectionnez le tout grâce à la flèche de sélection et grouper les nœuds (Ctrl+G ou Objet > Grouper) afin de n'avoir qu'un seule image.
 
-Même principe avec la pousse. Commencez par placer vos noeuds puis avec l'outil "Editer les nœ-uds" déplacez les droites en courbes. Modelez votre image :). Groupez vos noeuds et voilà !
+Même principe avec la pousse. Commencez par placer vos noeuds puis avec l'outil "Editer les nœuds" déplacez les droites en courbes. Modelez votre image :). Groupez vos nœuds et voilà !
